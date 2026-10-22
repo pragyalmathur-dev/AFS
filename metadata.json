@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Friendship School - Kachai, Manipur",
+  "description": "A residential community school founded in 1995 in Kachai village, Ukhrul district, Manipur, providing nurturing education from Kindergarten to Grade 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
